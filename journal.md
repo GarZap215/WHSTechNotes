@@ -20,5 +20,7 @@ Technology has changed the way people celebrate during the holidays and in most 
 One reason waymo self-driving cars might not recogise a school bus with its arm out is because it might use a different type of sensor. The type of sensors they may use or ai, maybe  the type that dont see color and/or only see generally big objects. If i was a programmer in this situation i would try to implicate a color sensor that can see the red of stop signs and make it so that the sensors can recognize smaller shaped object.Saftery features would be if something is moving with 10-5 feet with a 2-6ft frame that it would come to a stop to avoid crashes.
 # December 15,2025
 My plans for the break is to sleep,eat,and game all day and night. Nothing else is planned except for some driving.
-# January 6, 2025
+# January 6, 2026
 One way i used technology this break was by using my Meta Quest 2, It is a vitrtual reality device which makes it seem as if you are in the game you are playing.I also used my desktop computer to play games and watch youtube videos.Finally the device I used the most was my phone. I played games,watched videos,recorded and uploaded a ton of content over the time of the break.
+# January 12,2026
+Autcraft was created because in many online spaces people that were considered different were being ridiculed and bullied. Name calling,doxing,bullying and other harmful actions can be directed towards people in online spaces. Developers wanted to make this server so those with autism can have a safe fun server for them to play without fear of bullying. If the developers ignored saftey and inclusion the server would be no different than any others.
