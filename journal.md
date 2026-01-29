@@ -27,3 +27,5 @@ Autcraft was created because in many online spaces people that were considered d
 # January 20, 2026
 One way technology can create a fair and just society is by helping spread information of politics,protests,injustices, and more.
 For example, in 2020 when many unfair police incidents were happening across the country, technology helped spread and show the world those injusticies.It let the people fight for their rights and freedoms. Thanks to technology many people were able to be seen and heard. Their stories spread to each corner of america as a showing that they cant cover up their actions.
+# January 29, 2026
+The test I took was the Englishh and language test, Nothing about it was really all that challenging. The hardest part was staying awake to be honest. If i had test prep i think it would help me get a higher score, i still passed but it was average.
