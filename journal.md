@@ -35,3 +35,18 @@ Personal care and good hygiene  are important because it is a habit that you wil
 I watched superbowl LIV I thought it was a okay game, started pretty slow and more one sided than i wouldve liked for it to be a good game. I did enjoy it, the half-time show with bad bunny was good but i couldnt fully enjoy it since i dont speak spanish.
 # February 23, 2026
 one way technology had a big impact on the olympics in terms of safetey were the fast following cameras is so they could closely track and follow each player. For example during one of the skiiing events one of the women crashed and very quickly medical staff rushed to her aid and air lifted her. this tech improved the olympics by making sure all the atheletes can stay safe.
+# March 2, 2026
+Company:Rack Space
+Job Title:Site Reliability Engineer
+Education Required:Bachelors in Computer science.
+Experience Required:3-7 years of experience in software engineering
+Skills / Tools / Languages:coding and linux proficiency
+Certifications (if any):Google Cloud - Professional Cloud DevOps EngineerAWS Certified DevOps Engineer
+What the job does (1–2 sentences):bridges development and operations, applying software engineering principles to infrastructure to maximize system availability, scalability, and performance
+Company:USAA
+Job Title:Software Engineer
+Education Required:Bachelors in computer science
+Experience Required:3-5 years of internships from early level positions to seinor ones.
+Skills / Tools / Languages:core programming proficiency (Python, Java, JavaScript), data structures/algorithms, and software design principles
+Certifications (if any):AWS Certified Developer, Microsoft Azure Developer Associate, IEEE's Certified Software Development Professional (CSDP), and Google Cloud Certified
+What the job does (1–2 sentences):applies engineering principles to design, develop, maintain, test, and evaluate computer software. 
