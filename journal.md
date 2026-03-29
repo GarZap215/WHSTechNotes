@@ -42,11 +42,13 @@ Education Required:Bachelors in Computer science.
 Experience Required:3-7 years of experience in software engineering
 Skills / Tools / Languages:coding and linux proficiency
 Certifications (if any):Google Cloud - Professional Cloud DevOps EngineerAWS Certified DevOps Engineer
-What the job does (1–2 sentences):bridges development and operations, applying software engineering principles to infrastructure to maximize system availability, scalability, and performance
+What the job does (1–2 sentences):bridges development and operations, applying software engineering principles to infrastructure to maximize system availability, scalability, and performancem
 Company:USAA
-Job Title:Software Engineer
+Job Title:Software Engineerm
 Education Required:Bachelors in computer science
 Experience Required:3-5 years of internships from early level positions to seinor ones.
 Skills / Tools / Languages:core programming proficiency (Python, Java, JavaScript), data structures/algorithms, and software design principles
 Certifications (if any):AWS Certified Developer, Microsoft Azure Developer Associate, IEEE's Certified Software Development Professional (CSDP), and Google Cloud Certified
 What the job does (1–2 sentences):applies engineering principles to design, develop, maintain, test, and evaluate computer software. 
+# March 23, 2026
+I chose that Univeristy of Texas and they are already eliminated from the playoffs. I was honestly surprised that they moved pass the first round. Using stats and data from the teams can help make predictions by choosing the team with the better stats.A computer program can look at the stats and film from the teams past games and then give a prediction based off both teams chances. High speed camera that can track when the ball is passed,shot,made,missed,turned over, or caught out of bounds, which also coralates to the player that did any of those actions.
